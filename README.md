@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1. Deanthony Jordan Dmjordan1@my.waketech.edu
+2. This is my Wake Tech account
+3. This repository will hold my assignments
