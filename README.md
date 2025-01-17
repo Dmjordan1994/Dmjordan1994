@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 1. Deanthony Jordan Dmjordan1@my.waketech.edu
 2. This is my Wake Tech account
 3. This repository will hold my assignments
+Hello my name is Deanthony and Academic Integrity is important becuase it shows the uniqueness of every student.  Some individuals learn differnet than others and seeing different answers or responses from others is what make every class fun.  If everyone reads the same chapter and than was asked what they learn,  Not everyone will have the same inital response. Lack of integrity shows lack of actual learning.
