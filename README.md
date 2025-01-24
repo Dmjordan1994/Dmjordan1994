@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 2. This is my Wake Tech account
 3. This repository will hold my assignments
 Hello my name is Deanthony and Academic Integrity is important becuase it shows the uniqueness of every student.  Some individuals learn differnet than others and seeing different answers or responses from others is what make every class fun.  If everyone reads the same chapter and than was asked what they learn,  Not everyone will have the same inital response. Lack of integrity shows lack of actual learning.
+# About ME #
+## My Interests ##
+### I like to watch anime, I like to play video games, And I also like to Travel ###
+## Websites I Recommend ##
+### [Crunchyroll] (https://www.crunchyroll.com) This is where I watch my anime
+### [Youtube] (https://www.youtube.com/) This my version of cable since it has so much variety to watch.
