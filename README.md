@@ -22,5 +22,5 @@ Hello my name is Deanthony and Academic Integrity is important becuase it shows 
 ## My Interests ##
 ### I like to watch anime, I like to play video games, And I also like to Travel ###
 ## Websites I Recommend ##
-### [Crunchyroll] (https://www.crunchyroll.com) This is where I watch my anime
-### [Youtube] (https://www.youtube.com/) This my version of cable since it has so much variety to watch.
+### [Crunchyroll](https://www.crunchyroll.com) This is where I watch my anime
+### [Youtube](https://www.youtube.com/) This my version of cable since it has so much variety to watch.
